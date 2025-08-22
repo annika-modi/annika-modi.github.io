@@ -43,7 +43,7 @@ html {
     font-size: 3.5rem;
     font-weight: 700;
     margin: 0;
-    background: linear-gradient(90deg, #90ab96, #52796b);
+    background: linear-gradient(90deg, #cb8666, #cb8666);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -87,7 +87,7 @@ html {
     font-size: 3rem;
     font-weight: 700;
     margin-bottom: 60px;
-    background: linear-gradient(90deg, #e391ac, #9c5853);
+    background: linear-gradient(90deg, #53537d, #53537d);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
