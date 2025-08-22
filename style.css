@@ -43,7 +43,7 @@ html {
     font-size: 3.5rem;
     font-weight: 700;
     margin: 0;
-    background: linear-gradient(90deg, #65b3c9, #3f8fba);
+    background: linear-gradient(90deg, #c04300, #c04300);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -64,7 +64,7 @@ html {
     display: inline-block;
     padding: 15px 30px;
     margin-top: 30px;
-    background: #8cb0bf;
+    background: #b66d45;
     color: white;
     text-decoration: none;
     border-radius: 30px;
@@ -73,7 +73,7 @@ html {
 }
 
 .projects-button:hover {
-    background: #7e9fad;
+    background: #925737;
 }
 
 /* Projects Section */
