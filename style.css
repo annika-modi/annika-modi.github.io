@@ -19,7 +19,7 @@ html {
     align-items: center;
     text-align: center;
     padding: 20px;
-    background: linear-gradient(135deg, #676db3, #2f3555);
+    background: linear-gradient(135deg, #c986ca, #474d6e);
 }
 
 .intro-content {
@@ -43,7 +43,7 @@ html {
     font-size: 3.5rem;
     font-weight: 700;
     margin: 0;
-    background: linear-gradient(90deg, #c3738d, #3a243e);
+    background: linear-gradient(90deg, #90ab96, #52796b);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -80,7 +80,7 @@ html {
 .projects-section {
     padding: 80px 20px;
     text-align: center;
-    background: #37435d;
+    background: #8090b9;
 }
 
 .section-title {
@@ -101,7 +101,7 @@ html {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: #1a1a2e;
+    background: #53537d;
     border-radius: 15px;
     padding: 30px;
     margin-bottom: 40px;
@@ -145,7 +145,7 @@ html {
 .project-links .project-link {
     display: inline-block;
     margin-top: 20px;
-    color: #4fc3f7;
+    color: #7eafc6;
     text-decoration: none;
     border-bottom: 2px solid #5d6a70;
     transition: border-bottom 0.3s ease;
