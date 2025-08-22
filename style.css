@@ -174,4 +174,36 @@ html {
     .project-image-container {
         margin: 0 40px;
     }
+
+    /* Footer Styles */
+footer {
+    background-color: #1A202C; /* A dark navy-blue that complements the purples and blues */
+    color: #F0F8FF; /* A very light blue-white for text, matching your main background */
+    padding: 2rem 5%;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.social-links a {
+    color: #F0F8FF;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+    color: #66FCB5; /* The light green highlight color from your hero section */
+}
+
+.copyright {
+    margin-top: 1rem;
+    font-size: 0.8rem;
+    opacity: 0.7;
+}
 }
